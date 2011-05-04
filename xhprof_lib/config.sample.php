@@ -1,6 +1,7 @@
 <?php
 $_xhprof = array();
 
+// $TODO$ this should really be held in an external file that's not checked in
 // Change these:
 $_xhprof['dbhost'] = 'localhost';
 $_xhprof['dbuser'] = 'root';
