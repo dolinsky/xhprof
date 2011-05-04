@@ -31,6 +31,7 @@ Requirements:
 * Database backend
 * MySQL, or MySQLi for data storage fully supported
 * Support for SQL Server now in beta stages #jumpInCamp
+* MongoDB storage
 
 Work that we're still doing:
 
